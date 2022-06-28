@@ -50,9 +50,9 @@
             this.label1.ForeColor = System.Drawing.SystemColors.WindowFrame;
             this.label1.Location = new System.Drawing.Point(54, 58);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(308, 47);
+            this.label1.Size = new System.Drawing.Size(344, 47);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Livraria Almeida ";
+            this.label1.Text = "Biblioteca Almeida ";
             // 
             // menuStrip1
             // 
@@ -102,14 +102,14 @@
             // cadastroToolStripMenuItem
             // 
             this.cadastroToolStripMenuItem.Name = "cadastroToolStripMenuItem";
-            this.cadastroToolStripMenuItem.Size = new System.Drawing.Size(180, 24);
+            this.cadastroToolStripMenuItem.Size = new System.Drawing.Size(157, 24);
             this.cadastroToolStripMenuItem.Text = "Novos Livros";
             this.cadastroToolStripMenuItem.Click += new System.EventHandler(this.cadastroToolStripMenuItem_Click);
             // 
             // estoqueToolStripMenuItem1
             // 
             this.estoqueToolStripMenuItem1.Name = "estoqueToolStripMenuItem1";
-            this.estoqueToolStripMenuItem1.Size = new System.Drawing.Size(180, 24);
+            this.estoqueToolStripMenuItem1.Size = new System.Drawing.Size(157, 24);
             this.estoqueToolStripMenuItem1.Text = "Estoque";
             // 
             // label2
