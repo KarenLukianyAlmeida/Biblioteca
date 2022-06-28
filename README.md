@@ -1,3 +1,3 @@
 # Biblioteca
 
-Programa para Biblioteca utilizando Windows Forms na linguagem C# 📖
+Sistema para gerir uma biblioteca utilizando Windows Forms na linguagem C# 📖
